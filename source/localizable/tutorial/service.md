@@ -32,7 +32,7 @@ GOOGLE_MAPS_API_KEY=<your key here> ember s
 ### Accessing the Google Maps API with a Utility
 
 Ember utilities are reusable code that can be accessed from various parts of the application.
-For Super Rentals, we'll use a utility to access the Google Maps API.
+For Super Rentals, we'll use a utility to access the Google Maps API. !
 The utility will abstract the Google API away from our Maps service,
 which will allow for future reuse of the maps API within the application,
 easier refactoring to alternate maps implementations,
